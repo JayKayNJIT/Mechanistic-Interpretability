@@ -8,6 +8,7 @@ Mech Interp or Explainable AI(XAI) tools and/or resources which have active comm
 <br>https://pair-code.github.io/saliency                        # Google
 <br>https://www.tensorflow.org/responsible_ai                   # Google
 <br>https://github.com/ModelOriented/DALEX/
+<br>https://github.com/SeldonIO/alibi
 <br>
 <br>
 <br>#################################################---------------------------------------Reading libraries
