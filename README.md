@@ -16,4 +16,4 @@ Mech Interp or Explainable AI tools and/or resources which have active community
 
 
 #################################################-----------------------------------------------------------------Reading+Coding libraries
-<br>https://xaitk.org/getting-started/    # US DOD's DARPA 
+<br>https://xaitk.org/getting-started/    # USA DOD's DARPA 
