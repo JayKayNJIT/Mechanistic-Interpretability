@@ -6,6 +6,7 @@ Mech Interp or Explainable AI tools and/or resources which have active community
 <br>https://captum.ai/                                          # Meta aka Facebook
 <br>https://interpret.ml/                                       # Microsoft
 <br>https://pair-code.github.io/saliency                        # Google
+<br>https://www.tensorflow.org/responsible_ai                   # Google
 <br>https://github.com/ModelOriented/DALEX/
 <br>
 <br>
