@@ -14,5 +14,8 @@ Mech Interp or Explainable AI tools and/or resources which have active community
 <br>https://transformer-circuits.pub/2025/attention-qk/index.html         #Anthropic Mech Interp R&D
 <br>
 <br>
+<br>
+<br>
+<br>
 <br>#################################################---------------------------------------------------------Reading+Coding libraries
 <br>https://xaitk.org/getting-started/    # USA DOD's DARPA 
