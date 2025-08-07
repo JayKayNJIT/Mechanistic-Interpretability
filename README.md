@@ -5,15 +5,15 @@ Mech Interp or Explainable AI tools and/or resources which have active community
 #################################################-----------Coding libraries
 <br> https://captum.ai/                                          # Meta aka Facebook
 <br>https://interpret.ml/                                       # Microsoft
-https://pair-code.github.io/saliency                        # Google
-https://github.com/ModelOriented/DALEX/
+<br>https://pair-code.github.io/saliency                        # Google
+<br>https://github.com/ModelOriented/DALEX/
 
 
 #################################################-----------Reading libraries
-https://www.neelnanda.io/mechanistic-interpretability/glossary
-https://transformer-circuits.pub/2025/attention-qk/index.html         #Anthropic Mech Interp R&D
+<br>https://www.neelnanda.io/mechanistic-interpretability/glossary
+<br>https://transformer-circuits.pub/2025/attention-qk/index.html         #Anthropic Mech Interp R&D
 
 
 
 #################################################-----------Reading+Coding libraries
-https://xaitk.org/getting-started/    # US DOD's DARPA 
+<br>https://xaitk.org/getting-started/    # US DOD's DARPA 
