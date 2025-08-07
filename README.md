@@ -1,5 +1,5 @@
 # Mechanistic-Interpretability
-Mech Interp or Explainable AI(XAI) tools and/or resources which have active community(last commit/post &lt; 6 months) 
+Mech. Interp. or Explainable AI(XAI) tools and/or resources which have active community(last commit/post &lt; 6 months) 
 <br>
 <br>
 <br>#################################################----------------------------------------Coding libraries
