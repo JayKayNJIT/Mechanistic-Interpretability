@@ -14,6 +14,7 @@ Mech. Interp. or Explainable AI(XAI) tools and/or resources which have active co
 <br>#################################################---------------------------------------Reading libraries
 <br>https://www.neelnanda.io/mechanistic-interpretability/glossary
 <br>https://transformer-circuits.pub/2025/attention-qk/index.html         #Anthropic Mech Interp R&D
+<br>https://www.alignmentforum.org/
 <br>
 <br>
 <br>#################################################-----------------------------Reading+Coding libraries
